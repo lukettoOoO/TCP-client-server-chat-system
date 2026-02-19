@@ -37,6 +37,10 @@ A real-time chat application implemented in C using TCP sockets and the POSIX th
   - **User List**: View all currently connected users.
 - **Visual Feedback**: dedicated windows for chat history, message input, and room lists.
 
+<img width="882" height="562" alt="Captură de ecran din 2026-02-19 la 17 33 15" src="https://github.com/user-attachments/assets/c85dfb0b-d34a-45d1-8fd6-f4c5764269fa" />
+<img width="890" height="521" alt="Captură de ecran din 2026-02-19 la 17 34 22" src="https://github.com/user-attachments/assets/98e39efc-2da1-4897-8b7e-80f3a0a7026c" />
+
+
 ## 🛠️ Technical Architecture
 
 - **Language**: C
