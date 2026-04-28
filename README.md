@@ -97,7 +97,7 @@ Then, open one or more terminal windows and start the client(s):
    - **Users**: See a list of all online users.
    - **Refresh**: Updates the list of available rooms.
    - **Exit**: Disconnects from the application.
-3. **Chatting**: Once in a room, type your message and press Enter. Type `/exit` or click the exit button to leave the room.
+3. **Chatting**: Once in a room, type your message and press Enter. Type `/exit` to leave the room.
 
 ## 📝 Commands
 While the GUI buttons are the primary way to interact, the client supports these internal commands:

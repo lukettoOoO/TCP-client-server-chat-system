@@ -215,7 +215,7 @@ void open_chat_window(const char *user, const char *chat_name, int sockfd) {
 
         wgetnstr(win3, input, LENGTH);
         input[strcspn(input, "\r\n")] = '\0';
-        if (strcmp(input, "exit") == 0) {
+        if (strcmp(input, "/exit") == 0 || strcmp(input, "exit") == 0) {
             //inlocuieste asta cu un buton de exit
             const char* cmd = "/exit";
             send_command(sockfd, cmd);
