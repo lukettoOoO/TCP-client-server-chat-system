@@ -102,7 +102,4 @@ Then, open one or more terminal windows and start the client(s):
 ## 📝 Commands
 While the GUI buttons are the primary way to interact, the client supports these internal commands:
 - `/list`: List connected users.
-- `/list_rooms`: List active rooms.
-- `/create <room_id> <user>`: Create a room.
-- `/join <id>`: Join a specific room.
 - `/exit`: Leave the current room.
